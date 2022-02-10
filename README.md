@@ -1,7 +1,9 @@
 ### Olá, eu sou o Jhonatan 👋
 
+- Entusiasta de tecnologias para desenvolvimento web.
+- Apaixonado por aprender e compartilhar coisas novas.
 
-- 🌱 Estou estudando NodeJS.
+- 🌱 No momento estou estudando NodeJS.
 
 <div align="center">
   <a href="https://github.com/jleandrodev">
