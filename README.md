@@ -3,6 +3,7 @@
 - Entusiasta de tecnologias para desenvolvimento web.
 - Apaixonado por aprender e compartilhar coisas novas.
 
+- :desktop_computer: Acadêmico de Analise e Desenvolvimento de Sistemas na Unicesumar.
 - 🌱 No momento estou estudando NodeJS.
 
 <div align="center">
